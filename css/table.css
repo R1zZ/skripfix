@@ -1,0 +1,15 @@
+body{font-family:'Candara','Calibri',sans-serif}
+table{box-shadow: 0px 0px 5px #aaa}
+table th{
+	padding: 10px;
+	font-weight: bold;
+	background:#33B4E4;
+	color: #fff;
+	text-transform: uppercase;
+}
+table td{
+	padding: 10px 5px;
+}
+table td,th{
+	position: relative;	
+}
